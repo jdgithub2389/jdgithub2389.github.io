@@ -1,3 +1,22 @@
+# Dependencies
+plugins: [jekyll-paginate]
+excerpt_separator: <!--more-->
+categories: "finance|math|physics|distributed-systems|consensus-protocols|machine-learning|programming|"
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
+
 theme: jekyll-theme-minimal
-title: Welcome to JD's Digital Life Projects!
-description: This is a place for me to post project and thoughts I have been working on. 
+title: CarpeRisus 
+description: Welcome to JD's digital life projects! This is a place for me to post project and thoughts I have been working on. 
+
+author:
+  name:           'JD'
+  email:        'We will think about this.'
+  
+
+version:          1.0.0
+
+github:
+  repo:           https://github.com/jdgithub2389/
+
