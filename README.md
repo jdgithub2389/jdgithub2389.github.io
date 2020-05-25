@@ -1,7 +1,6 @@
 ## Welcome to JD's Digital Life
 
-
-### Subjects I'M interested In...
+### My Subjects of Interest...
 
 - Networks
 - Distributed Systems
