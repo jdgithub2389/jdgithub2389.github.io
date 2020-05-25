@@ -4,7 +4,7 @@ categories: "distributed-systems|consensus-protocols|finance|math|physics|machin
 # Permalinks
 permalink:        /:year/:month/:day/:title/
 
-theme: jekyll-theme-minimal
+theme: hyde
 title: CarpeRisus 
 tagline: 'Seizing joy from thought'
 description: Welcome to JD's digital life existence! This is a place for me to post projects and thoughts. 
